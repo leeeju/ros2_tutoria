@@ -5,7 +5,7 @@
 
 
 >1. ROS2 Foxy
->     1. [Ubuntu 20.04 설치 및 설정](./) 
+>     1. [Ubuntu 20.04 설치 및 설정](./ubuntu_set_up.md) 
 >     2. **[ROS2 Foxy 설치 및 설정](./install_ROS_Foxy.md)** 
 >2. 3  운영환경 설정 팁
 
